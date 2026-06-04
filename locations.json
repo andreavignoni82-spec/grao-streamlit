@@ -1,0 +1,14 @@
+[
+  {"name":"Italia Nord - Alpi", "lat":46.1, "lon":10.9, "type":"mountain_structural"},
+  {"name":"Italia - Pianura Padana", "lat":45.45, "lon":9.19, "type":"industrial_plain"},
+  {"name":"Norvegia - Tromso Auroral Zone", "lat":69.65, "lon":18.96, "type":"geomagnetic"},
+  {"name":"Islanda - Rift Geotermico", "lat":64.96, "lon":-19.02, "type":"geothermal_seismic"},
+  {"name":"Giappone - Honshu Seismic Belt", "lat":36.2, "lon":138.2, "type":"seismic"},
+  {"name":"Cile - Ande / Atacama", "lat":-24.6, "lon":-69.1, "type":"high_altitude_seismic"},
+  {"name":"Nuova Zelanda - Alpine Fault", "lat":-43.5, "lon":170.1, "type":"seismic"},
+  {"name":"Hawaii - Pacific Volcanic", "lat":19.6, "lon":-155.5, "type":"volcanic_oceanic"},
+  {"name":"Antartide - Dome C", "lat":-75.1, "lon":123.3, "type":"polar_low_noise"},
+  {"name":"Groenlandia - Ice Sheet", "lat":72.6, "lon":-38.5, "type":"polar_ice"},
+  {"name":"Canada - Hudson Bay", "lat":58.8, "lon":-94.2, "type":"low_gravity_anomaly"},
+  {"name":"Indonesia - Ring of Fire", "lat":-7.5, "lon":110.4, "type":"seismic_volcanic"}
+]
